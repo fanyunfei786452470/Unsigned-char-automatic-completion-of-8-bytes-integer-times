@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C
+END
+ztype.h
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C/ztype.h
+END
+zcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C/zcom.c
+END
+zalglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C/zalglib.h
+END
+zclientsdk.c
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C/zclientsdk.c
+END
+zclientwk.c
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C/zclientwk.c
+END
+zcom.h
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/nist/!svn/ver/1168/project/NIST7000/IOS/%E7%99%BD%E7%9B%92%E9%A1%B9%E7%9B%AE/%E7%99%BD%E7%9B%92SDK/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WhiteBoxSDKText(%E7%99%BD%E7%9B%92SDK)/WB_SDK(%E7%99%BD%E7%9B%92SDK)/NIST_WB_SDK/sdk_C/zcom.h
+END
