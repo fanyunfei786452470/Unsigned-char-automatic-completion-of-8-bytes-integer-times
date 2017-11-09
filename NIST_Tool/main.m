@@ -7,9 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "zalglib.h"
-#include <stdio.h>
-#include <string.h>
+
 void unsignedchar2(unsigned char * input,unsigned char * output,int len );
 void unsignedchar1(unsigned char * input,unsigned char * output,int len );
 void unsignedchar(unsigned char * input, unsigned long long * output, int len);
